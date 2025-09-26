@@ -1,0 +1,1 @@
+# TypeScript-Security-Scanner-config-linter-
